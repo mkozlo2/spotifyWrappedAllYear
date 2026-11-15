@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local environment and data
+.env
+!.env.example
+*.db
+*.sqlite3
+.cache/
+
+# Frontend
+node_modules/
+dist/
+.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
