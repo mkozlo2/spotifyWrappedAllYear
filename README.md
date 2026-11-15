@@ -1,4 +1,4 @@
-# Soundprint
+# Soundprint - SPOTIFY WRAPPED ALL YEAR ROUND
 
 Soundprint is a local, single-account Spotify listening analytics API. Connect a Spotify account to inspect top artists and tracks, collect listening history, and save snapshots for comparing rankings over time.
 
